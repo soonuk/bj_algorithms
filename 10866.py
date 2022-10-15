@@ -1,5 +1,5 @@
 import sys
-
+#정답처리 완료
 N = int(sys.stdin.readline())
 li=[]
 
