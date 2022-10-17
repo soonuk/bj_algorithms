@@ -55,3 +55,4 @@ for i in N:
     print(i, end="")
 
 #시간초과로 실패asdas
+#ch1

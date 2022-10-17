@@ -24,6 +24,8 @@ for i in range(n):
         print(-1, end=" ")
 
     i+=1
+
+    #none
              
 
 

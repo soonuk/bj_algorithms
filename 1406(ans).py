@@ -19,3 +19,4 @@ for _ in range(int(sys.stdin.readline())):
                   
 st1.extend(reversed(st2))
 print(''.join(st1))
+#ch1

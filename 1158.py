@@ -14,3 +14,4 @@ for i in range(n):
     num-=1
 
 print("<", ", ".join(answer), ">", sep='')
+#ch1

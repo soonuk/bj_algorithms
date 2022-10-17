@@ -34,4 +34,5 @@ for i in range(len(bar)):
     
     i+=1
 
-print(totalBar)    
+print(totalBar)  
+#ch1  

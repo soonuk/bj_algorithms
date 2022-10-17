@@ -18,3 +18,4 @@ for i in range(len(ins)):
 
     i+=1
 print(total)
+#221017

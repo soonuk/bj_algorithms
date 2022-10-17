@@ -1,5 +1,5 @@
 import sys
-
+#none
 sentence = sys.stdin.readline().rstrip()
 
 box =""

@@ -5,6 +5,7 @@ lis = list(map(int, sys.stdin.readline().split()))
 stack=0
 ans=[]
 val=0
+#none
 for i in range(n):
     if stack==0:
         stack+=1
