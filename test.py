@@ -1,3 +1,3 @@
-import sys
-command = list(sys.stdin.readline().split())
-print(command)
+list=[1,2,3,4,5]
+
+print(max(list[0:3]))
