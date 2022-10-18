@@ -1,3 +1,2 @@
-list=[1,2,3,4,5]
-
-
+M, N = map(int, input().split())
+print(M,N)
